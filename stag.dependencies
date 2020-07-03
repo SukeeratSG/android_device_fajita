@@ -19,8 +19,8 @@
   },
   {
     "remote"      : "github",
-    "repository"  : "AOSiP-Devices/device_twrp",
-    "target_path" : "device/twrp/fajita",
+    "repository"  : "Evolution-X-Devices/device_twrp_black",
+    "target_path" : "device/twrp/black/fajita",
     "branch"      : "fajita",
     "clone-depth" : "1"
   },
